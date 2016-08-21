@@ -11,7 +11,9 @@
     "scrollAnimation": "true",
     "publishType": "local",
     "publishPath": "file:///Users/aaronsatterfield/Documents/aasatt.github.io",
-    "favicon": "@PROJECT_PATH@/assets/images/as-128x128-99.png"
+    "favicon": "@PROJECT_PATH@/assets/images/as-128x128-99.png",
+    "path": "file:///Users/aaronsatterfield/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2016-08-14_222550",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -212,7 +214,7 @@
           "title1": "Live Studio",
           "subtitle1": "The ultimate app for Live Photos",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://livestud.io\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">VIEW SITE</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/slimgy-thumb-600x399-68.jpg",
@@ -260,7 +262,7 @@
           "title4": "Slo-Square",
           "subtitle4": "Share Slo-Mo videos anywhere",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -349,6 +351,9 @@
             "count": 3,
             "paddingTop": "0",
             "paddingBottom": "2",
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
@@ -358,10 +363,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubtitle": false,
-            "showImages": true,
-            "showName": true,
-            "showBio": true
+            "showSubtitle": false
           },
           "title": "Press Coverage",
           "subtitle": "Shape your future web project with sharp design and refine coded functions."

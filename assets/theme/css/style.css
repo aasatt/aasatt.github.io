@@ -15,6 +15,14 @@
       .btn + .btn {
         margin-left: 0; } }
 
+.btn-download {
+    border-color: none;
+    background-image: url(../../images/download.png) ;
+    box-shadow: none;
+    width: 160px;
+     height: 50px;
+    color: #fffff; }
+
 .bg-primary {
   background-color: #c0a375 !important; }
 
